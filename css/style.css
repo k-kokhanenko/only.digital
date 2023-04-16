@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.auth-panel {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    padding-top: calc((100vh - 400px) / 2);
+}
+
+.reg-panel {
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    padding-top: calc((100vh - 600px) / 2); 
+}
+
+.profile-panel {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    padding-top: calc((100vh - 600px) / 2); 
+}
